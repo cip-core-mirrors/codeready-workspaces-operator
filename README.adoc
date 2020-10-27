@@ -1,10 +1,10 @@
 # About this branch
 
-NOTE: the so-called master branch is deprecated and is no longer kept up to date. 
-
+[WARNING]
+====
+The so-called master branch is deprecated and is no longer kept up to date. 
 For the latest release, see the crw-2.y-rhel-8 branch with the largest y value.
-
------
+====
 
 ## Building CRW Operator and Metadata containers
 
